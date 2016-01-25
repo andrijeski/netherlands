@@ -10,4 +10,4 @@
 <br><hr>
 * [http://www.marktplaats.nl](http://www.marktplaats.nl) - This is a Dutch "Ebay". Lots of ads in various categories, both from people and companies. Mostly 2nd hand stuff, but there are also new things for sale. 
 <br><hr>
-
+* [http://www.beslist.nl](http://www.beslist.nl) - Website for shopping. You can search a product, and the results may be "aggregated" where you get the price comparison of the same product in different (online) shops. Includes reviews, shipping costs etc. Quite handy site if you're not sure that you pay the right value for the thing you wanna order, but also to find what you need.
