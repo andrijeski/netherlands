@@ -10,4 +10,5 @@
 <br><hr>
 * [http://www.marktplaats.nl](http://www.marktplaats.nl) - This is a Dutch "Ebay". Lots of ads in various categories, both from people and companies. Mostly 2nd hand stuff, but there are also new things for sale. 
 <br><hr>
-
+* [http://tweakers.net/](http://tweakers.net/) - One of the largest Dutch community technology sites. Used for comparing prices fetched from online stores, reviews, actual tests including performance tests done by the Tweakers team.
+<br><hr>
